@@ -1,0 +1,3 @@
+I sincerely apologize for the late submission of the project. I was working at another location and had to take leave to travel back home. I sent you this email as soon as I reached home.
+I want to be transparent about the project status: the Next.js project is not fully complete. The update and CRUD operations are still pending. Due to time constraints, I was unable to follow the MVC pattern in Node.js and ended up defining all routes in the index file itself. Similarly, on the frontend, I kept the UI simple and did not implement loaders or other advanced UI features.
+I understand this falls short of the expected standards, and I take full responsibility for the incomplete work Thank you for your understanding
